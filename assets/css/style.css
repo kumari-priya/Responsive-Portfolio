@@ -203,6 +203,26 @@ p{
     margin: 10px auto;
   }
 
+  .portfolio-box img{
+    height: 300px;
+    width: 480px;
+    align-self: center;
+  }
+
+  .float-left{
+  float: left;
+  margin: 0 auto;
+  }
+  .float-right{
+  float: left;
+  margin: 0 auto;
+  }
+  
+  .portfolio-box{
+    position: relative;
+    width: 97%;
+    margin-bottom: 50px;
+  }
 }
 
 @media screen and (max-width: 768px) {
